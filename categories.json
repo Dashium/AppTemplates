@@ -1,0 +1,94 @@
+[
+    {
+        "name": "blog",
+        "icon": "📰"
+    },
+    {
+        "name": "Cloud",
+        "icon": "☁️"
+    },
+    {
+        "name": "CMS",
+        "icon": "📄"
+    },
+    {
+        "name": "continuous-integration",
+        "icon": "🔄"
+    },
+    {
+        "name": "database",
+        "icon": "🗃️"
+    },
+    {
+        "name": "development",
+        "icon": "👩‍💻"
+    },
+    {
+        "name": "Docker",
+        "icon": "🐳"
+    },
+    {
+        "name": "edge",
+        "icon": "🌐"
+    },
+    {
+        "name": "filesystem",
+        "icon": "📁"
+    },
+    {
+        "name": "Log Management",
+        "icon": "📊"
+    },
+    {
+        "name": "marketing",
+        "icon": "📢"
+    },
+    {
+        "name": "media",
+        "icon": "📷"
+    },
+    {
+        "name": "messaging",
+        "icon": "💬"
+    },
+    {
+        "name": "Monitoring",
+        "icon": "📡"
+    },
+    {
+        "name": "operating-system",
+        "icon": "💻"
+    },
+    {
+        "name": "OPS",
+        "icon": "⚙️"
+    },
+    {
+        "name": "PaaS",
+        "icon": "🏭"
+    },
+    {
+        "name": "portainer",
+        "icon": "🐋"
+    },
+    {
+        "name": "project-management",
+        "icon": "📅"
+    },
+    {
+        "name": "search-engine",
+        "icon": "🔍"
+    },
+    {
+        "name": "serverless",
+        "icon": "☁️💡"
+    },
+    {
+        "name": "storage",
+        "icon": "🗄️"
+    },
+    {
+        "name": "webserver",
+        "icon": "🌐🖥️"
+    }
+]
